@@ -13,6 +13,9 @@ Bone fracture classification using Convolutional Neural Networks (CNNs) achieves
 ### Image 3: Output of NO fracture in bone
 ![Screenshot 2024-09-21 135902](https://github.com/user-attachments/assets/f733f2ba-6eb3-4b20-8c64-af43d309b2ac)
 
+### Image 4: Accuracy
+![image](https://github.com/user-attachments/assets/3a15eb9c-6424-4d3b-952f-c1a958d61238)
+
 ## Conclusion
 
 In conclusion, machine learning algorithms like CNNs significantly enhance bone fracture classification, offering high accuracy and faster diagnosis. This advancement reduces the burden on radiologists, improves patient outcomes, and represents a critical step toward more efficient healthcare diagnostics.
