@@ -14,7 +14,7 @@ Bone fracture classification using Convolutional Neural Networks (CNNs) achieves
 ![Screenshot 2024-09-21 135902](https://github.com/user-attachments/assets/f733f2ba-6eb3-4b20-8c64-af43d309b2ac)
 
 ### Image 4: Accuracy
-![image](https://github.com/user-attachments/assets/3a15eb9c-6424-4d3b-952f-c1a958d61238)
+![WhatsApp Image 2024-09-21 at 13 55 16_3e588385](https://github.com/user-attachments/assets/03828302-d476-4647-a51e-1a87c3916502)
 
 ## Conclusion
 
